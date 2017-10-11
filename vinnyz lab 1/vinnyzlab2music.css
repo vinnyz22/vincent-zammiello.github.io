@@ -1,0 +1,62 @@
+html{
+	background: gold
+
+}
+
+H1{
+	color: red;
+	float: center
+	margin-right: 400px;
+
+}
+
+
+
+
+#music{
+	
+	text-align: center;
+	border: solid red;
+	width: 300px;
+
+}
+	
+#travis{
+	float: right;
+	color: red;
+	text-align: center
+
+}
+
+#post{
+	float: right;
+	color: red;
+	text-align: center
+	
+
+}
+
+#rocky{
+	float: right;
+	color: red;
+	text-align: center
+
+}
+
+#rap{
+	border: solid red
+
+
+}
+
+#kanye { 
+	width: "1000px";
+	height: "562px";
+	float: right;
+	margin-align: right;
+	margin-right: 280px;
+	border: 50px solid red;
+	padding: 30px;
+}
+
+

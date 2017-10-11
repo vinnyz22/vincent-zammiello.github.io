@@ -1,0 +1,45 @@
+html{
+	background: gold;
+	
+}
+
+
+#two{ float: left;
+	text-align: center;
+	border: solid red; 
+	width:400;
+	color: red;
+	padding: 5px;
+	text-align:left;
+}
+
+H1{ font-size: 50;
+	background-color: red;
+	color: gold;
+	
+
+}
+
+H2{ font-size:30;
+
+}
+
+H3{ font-size:30;
+
+}
+
+H4{ font-size:30;
+
+}
+
+img{float: right;
+	width: 750;
+	border: solid red;
+	padding: 2px;
+}
+
+
+#three{ text-align: center;
+
+
+}

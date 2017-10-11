@@ -1,0 +1,47 @@
+html{
+	background: gold
+	
+}
+
+body{
+	border: 50px solid red;
+
+}
+
+
+
+
+#head{
+	color: red;
+	text-align: center;
+	border: dashed red;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-family: cursive;
+	margin-top: 50px;
+
+}
+
+#par{
+	text-align: center;
+	effect: float;
+	margin-left: 475px;
+	margin-right: 475px;
+	margin-top: 25px;
+	color: red;
+	
+
+}
+
+#links{
+	text-align: center;
+	margin-left: 450px;
+	margin-right: 450px;
+	margin-top: 75px;
+	color: red;
+	border: solid red;
+	padding: 15px;
+	
+
+
+}

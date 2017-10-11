@@ -1,0 +1,38 @@
+html{
+	background: gold
+	
+}
+
+p{font-size: 20;
+}
+#paper{ 
+	text-align: center;
+	background-color: gold;
+	color: red;
+	border: solid red;
+	padding; 10px;
+	
+	
+	}
+	
+#links{
+	color: red;
+	text-align: center;
+	background-color: gold;
+	border: solid red 5px;
+	width: 400px;
+	float: center;
+	margin-left: 510px;
+	}
+	
+nav{float: center;
+
+}
+
+img{
+	width: 600;
+	margin-left: 400px;
+	border: solid red 5px;
+	padding: 10px;
+	float: center
+}

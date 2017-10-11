@@ -1,0 +1,42 @@
+html{
+	background-image: url(krug.html);
+	background-position: center;
+
+}
+
+H1{
+	color: white;
+	margin: 30;
+	font-size: 80;
+	
+	
+	
+}
+
+#bruin{
+	color: white;
+	text-align: left;
+	width: 300px;
+	margin: 30px;
+	border: solid gold;
+	padding: 5px;
+
+}
+
+#stats{
+	color: white;
+	border: solid gold;
+	width: 300px;
+	margin: 30px;
+	padding: 5px;
+	
+
+}
+
+img{
+	margin: 35px;
+	border: solid gold;	
+
+
+}
+
